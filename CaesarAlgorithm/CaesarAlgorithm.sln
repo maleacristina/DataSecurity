@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CaesarAlgorithm", "CaesarAlgorithm\CaesarAlgorithm.vcxproj", "{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Debug|x64.ActiveCfg = Debug|x64
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Debug|x64.Build.0 = Debug|x64
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Debug|x86.Build.0 = Debug|Win32
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Release|x64.ActiveCfg = Release|x64
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Release|x64.Build.0 = Release|x64
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Release|x86.ActiveCfg = Release|Win32
+		{FEBA776B-0029-42C5-98AE-D0A131FC0DCD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A141967A-40A6-4E51-810A-9A052F89B3E6}
+	EndGlobalSection
+EndGlobal

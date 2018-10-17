@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\asus\desktop\github\datasecurity\caesaralgorithm\caesaralgorithm\main.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\asus\desktop\github\datasecurity\caesaralgorithm\caesaralgorithm\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  CaesarAlgorithm.vcxproj -> C:\Users\Asus\Desktop\GitHub\DataSecurity\CaesarAlgorithm\Debug\CaesarAlgorithm.exe
